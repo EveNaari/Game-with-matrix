@@ -1,0 +1,36 @@
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\bin\Debug\Игра с матрицами Csharp.exe.config
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\bin\Debug\Игра с матрицами Csharp.exe
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\bin\Debug\Игра с матрицами Csharp.pdb
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\obj\Debug\Игра с матрицами Csharp.csprojResolveAssemblyReference.cache
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Main_menu.resources
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Properties.Resources.resources
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\obj\Debug\Игра с матрицами Csharp.csproj.GenerateResource.Cache
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\obj\Debug\Игра с матрицами Csharp.exe
+C:\Users\Zebra\AppData\Local\Temporary Projects\Игра с матрицами Csharp\obj\Debug\Игра с матрицами Csharp.pdb
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\bin\Debug\Игра с матрицами Csharp.exe.config
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\bin\Debug\Игра с матрицами Csharp.exe
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\bin\Debug\Игра с матрицами Csharp.pdb
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра с матрицами Csharp.csprojResolveAssemblyReference.cache
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Properties.Resources.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра с матрицами Csharp.csproj.GenerateResource.Cache
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра с матрицами Csharp.exe
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра с матрицами Csharp.pdb
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Меню_сложность.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Сложные_задания_UF.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Средние_задания_UF.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Лёгкие_задания_UF.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Лёгкая_матрица_1.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Лёгкая_матрица_2.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Лёгкая_матрица_3.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Лекция_сложение_и_вычитание_матриц.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Лекция_умножение_матриц.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Средняя_матрица_1.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Средняя_матрица_2.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Лекция_нахождение_определителя.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Лекция_нахождение_определителя_2.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Средняя_матрица_4.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Средняя_матрица_3.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Сложная_матрица_1.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Сложная_матрица_2.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Сложная_матрица_3.resources
+C:\Users\Zebra\Documents\Visual Studio 2017\Projects\Игра с матрицами Csharp\Игра с матрицами Csharp\obj\Debug\Игра_с_матрицами_Csharp.Сложная_матрица_4.resources
